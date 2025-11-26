@@ -14,10 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-| <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=D-Dragon0318&show_icons=true&theme=tokyonight" /> </div> | <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=D-Dragon0318" /> </div> |
-| ------------- | ------------- |
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=D-Dragon0318&theme=xcode" /> </div>
-<div align="center"> <img src="https://profile-counter.glitch.me/D-Dragon0318/count.svg" /> </div>
+
+
+
+<div align="center"> 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/D-Dragon0318/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/D-Dragon0318/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/D-Dragon0318/platane/output/github-contribution-grid-snake.svg">
+</picture>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=D-Dragon0318&theme=xcode" /> 
+</div>
+<!-- <div align="center"> <img src="https://profile-counter.glitch.me/D-Dragon0318/count.svg" /> </div> -->
 
 - 🚀 I use daily:
   [![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)]()
@@ -46,11 +54,17 @@ Here are some ideas to get you started:
   [![React Native](https://img.shields.io/badge/React-20232A?style=plastic&logo=react&logoColor=61DAFB)]()
   [![Vue](https://img.shields.io/badge/Vue.js-35495E?logo=vue.js&logoColor=4FC08D)]()
 
+<!-- <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=D-Dragon0318&show_icons=true&theme=tokyonight" /> </div>  -->
+
+<!-- <div align="center">  -->
+
 ### My Skill Set
-<table><tr><td valign="top" width="33%">
+<table>
 
-
-
+<tr>
+  
+<td valign="top" width="20%">
+  
 #### Frontend
 <div align="center">
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />
@@ -63,9 +77,9 @@ Here are some ideas to get you started:
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" />
 </div>
-
 </td>
-<td valign="top" width="33%">
+
+<td valign="top" width="20%">
 
 #### Backend
 <div align="center">
@@ -79,9 +93,10 @@ Here are some ideas to get you started:
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />
 </div>
-
 </td>
-<td valign="top" width="33%">
+
+
+<td valign="top" width="20%">
 
 #### DevOps
 <div align="center">
@@ -91,5 +106,15 @@ Here are some ideas to get you started:
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" />
 </div>
 </td>
+
+<!-- <td valign="top" width="40%"> -->
+<td valign="top">
+
+<div align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=D-Dragon0318" /> 
+</div>
+</td>
+
 </tr>
 </table>
+<!-- </div> -->
