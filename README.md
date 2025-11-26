@@ -63,7 +63,7 @@ Here are some ideas to get you started:
 
 <tr>
   
-<td valign="top" width="20%">
+<td valign="top" width="33%">
   
 #### Frontend
 <div align="center">
@@ -79,7 +79,7 @@ Here are some ideas to get you started:
 </div>
 </td>
 
-<td valign="top" width="20%">
+<td valign="top" width="33%">
 
 #### Backend
 <div align="center">
@@ -96,7 +96,7 @@ Here are some ideas to get you started:
 </td>
 
 
-<td valign="top" width="20%">
+<td valign="top" width="33%">
 
 #### DevOps
 <div align="center">
@@ -107,14 +107,18 @@ Here are some ideas to get you started:
 </div>
 </td>
 
-<!-- <td valign="top" width="40%"> -->
-<td valign="top">
-
-<div align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=D-Dragon0318" /> 
-</div>
-</td>
-
 </tr>
 </table>
 <!-- </div> -->
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=D-Dragon0318&left_color=green&right_color=red)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=D-Dragon0318&size_weight=0.5&count_weight=0.5&langs_count=8)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=D-Dragon0318&row=1&margin-w=10&theme=dark_lover)](https://github.com/ryo-ma/github-profile-trophy)
+
+![Taot's GitHub stats](https://github-immortality.vercel.app/api?username=D-Dragon0318)
+![GitHub Streak](https://streak-stats.demolab.com/?user=D-Dragon0318)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dragon0318&size_weight=0.5&count_weight=0.5&langs_count=8)
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=D-Dragon0318" />
