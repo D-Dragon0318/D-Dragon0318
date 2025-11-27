@@ -116,7 +116,7 @@ Here are some ideas to get you started:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=D-Dragon0318&row=1&margin-w=10&theme=dark_lover)](https://github.com/ryo-ma/github-profile-trophy)
 
-![Taot's GitHub stats](https://github-immortality.vercel.app/api?username=D-Dragon0318)
+![Spridra's GitHub stats](https://github-immortality.vercel.app/api?username=D-Dragon0318)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=D-Dragon0318)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dragon0318&size_weight=0.5&count_weight=0.5&langs_count=8)
