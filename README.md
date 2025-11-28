@@ -59,14 +59,14 @@ Here are some ideas to get you started:
 <!-- <div align="center">  -->
 
 ### My Skill Set
-<table>
-
+<!-- <table> -->
+<table style="width: 18030px;">
 <tr>
   
-<td valign="top" width="33%">
+<td valign="top" width="600px">
   
 #### Frontend
-<div align="center">
+<!-- <div align="center"> -->
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
@@ -76,10 +76,10 @@ Here are some ideas to get you started:
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" />
-</div>
+<!-- </div> -->
 </td>
 
-<td valign="top" width="33%">
+<td valign="top" width="600px">
 
 #### Backend
 <div align="center">
@@ -96,7 +96,7 @@ Here are some ideas to get you started:
 </td>
 
 
-<td valign="top" width="33%">
+<td valign="top" width="600px">
 
 #### DevOps
 <div align="center">
@@ -106,19 +106,20 @@ Here are some ideas to get you started:
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" />
 </div>
 </td>
-
+<td valign="top" width="1200px">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=D-Dragon0318" />
+    </td>
 </tr>
 </table>
-<!-- </div> -->
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=D-Dragon0318&left_color=green&right_color=red)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=D-Dragon0318&size_weight=0.5&count_weight=0.5&langs_count=8)
+
+
+<!--![visitors](https://visitor-badge.glitch.me/badge?page_id=D-Dragon0318&left_color=green&right_color=red) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=D-Dragon0318&size_weight=0.5&count_weight=0.5&langs_count=8)-->
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=D-Dragon0318&row=1&margin-w=10&theme=dark_lover)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Spridra's GitHub stats](https://github-immortality.vercel.app/api?username=D-Dragon0318)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=D-Dragon0318)
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=D-Dragon0318" /> -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dragon0318&size_weight=0.5&count_weight=0.5&langs_count=8)
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=D-Dragon0318" />
